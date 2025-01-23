@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Chemin où sont situés tous les projets
-BASE_DIR="/Users/shoponyou/Documents/projet/"
+BASE_DIR="/Users/antoine/Documents/projet/"
 
 # Liste des projets
-projects=("app-shopper" "native-app-shopper" "board-admin" "flashpage" "splashpage" "board-keeper" "mails-templates")
+projects=("native-app-shopper" "board-admin" "flashpage" "board-keeper")
 
 # Chemin du fichier texte à créer sur le bureau
-OUTPUT_FILE="/Users/shoponyou/scripts_bash/gerenate_done.txt"
+OUTPUT_FILE="/Users/antoine/scripts_bash/gerenate_done.txt"
 
 # Vider le fichier avant d'y écrire
 > "$OUTPUT_FILE"
