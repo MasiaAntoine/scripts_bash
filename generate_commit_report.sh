@@ -4,7 +4,8 @@ OUTPUT_FILE="/Users/antoine/scripts_bash/gerenate_done.txt"
 IA_OUTPUT_FILE="/Users/antoine/scripts_bash/gerenate_done_ai.txt"
 
 IGNORED_PROJECTS=(
-    "wallet"
+    "livecampus"
+    "back-soy"
 )
 
 > "$OUTPUT_FILE"
