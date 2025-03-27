@@ -6,6 +6,7 @@ IA_OUTPUT_FILE="/Users/antoine/scripts_bash/gerenate_done_ai.txt"
 IGNORED_PROJECTS=(
     "livecampus"
     "back-soy"
+    "projet-perso"
 )
 
 > "$OUTPUT_FILE"
